@@ -1,1 +1,7 @@
-cout<<"hello"
+#include<iostream>
+int main()
+{
+  cout<<"hello
+    ";
+}
+    
