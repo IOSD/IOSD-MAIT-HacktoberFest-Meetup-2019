@@ -1,0 +1,54 @@
+
+<!doctype html>
+<head>
+<title></title>
+</head>
+<body>
+ <meta charset="utf-8"> 
+<header><h1>This is an important heading...</h1>
+<h8>This is not very important heading...</h8>
+</header>
+<nav>
+This is Navigator Window.<br>
+<a href="x.htm">Navigation 1</a><br>
+<a href="y.htm">Navigation 2</a><br>
+<a href="z.htm">Navigation 3</a><br>
+</nav>
+<hr width="100%" height="200"></HR>
+
+<article>
+<H1>This is an Article Heading.</h1>
+<p>This contains the content of the article...</p><br>
+<section>This is an section of the Main Article.</section>
+<section>This is an section of the Main Article.</section>
+<aside>This is the aside tag.</aside>
+<hr width=100%" height="100"></HR>
+
+
+<h2>This is an Article Heading.</h2>
+<p>This contains the content of the article...</p><br>
+<section>This is a section of the Main Article.</section>
+<section>This is a section of the Main Article.</section>
+<aside>This is the aside tag.</aside>
+<aside>This is the aside tag.</aside>
+<hr width=100%" height="100"></HR>
+
+
+Audio:<br>
+<audio controls autoplay>
+<source src="sound.wav" type="sound.wav">Audio not supported</audio>
+<hr width=100%" height="100"></HR>
+
+
+<video controls autoplay>
+<source src="video.mp4">Video not supported.</video>
+<hr width=100%" height="100"></HR>
+
+Status:<progress min="0" max="100" value="66.54"></progress>
+<hr width=100%" height="100"></HR>
+
+<br><br><br>
+
+<footer>This is the footer Text.</footer>
+</body>
+</html>
